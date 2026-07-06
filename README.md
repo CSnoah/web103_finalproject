@@ -1,8 +1,14 @@
-# [your app name here]
+# [EatRite]
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: 
+Ashok Gaire,
+Ousseynou Diop,
+Mohammad Naeem,
+Khadeja Ahmar,
+Oscar Mochizaki,
+Noah Mckegney
 
 🔗 Link to deployed app:
 
@@ -10,35 +16,62 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+The purpose of the App is to create meal plans based on specified available ingredients. Users can enter ingredients they already have at home, set dietary preferences, and get recipe suggestions. Users could also save favorite recipes to their profile.
 
 ### Inspiration
 
-[text goes here]
+Many people want to eat healthier or add more variety to their meals, but coming up with new ideas for breakfast, lunch, dinner, or snacks can be difficult. People often fall back on the same recipes they already know or spend time searching through multiple websites for inspiration. This app helps solve that problem by generating personalized recipe suggestions based on ingredients users already have on hand while also considering their dietary preferences.
 
 ## Tech Stack
 
-Frontend:
+Frontend: React
 
-Backend:
+Backend: Express
 
 ## Features
 
-### [Name of Feature 1]
+### Home page
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+- Recipe results page
+- Shows all available recipes
+- Sorts them based on star rating
+- Can ajust results: new, favorite, etc.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### User kitchen Page
 
-[short description goes here]
+- Cards with all Ingredients in users kitchen
+- Link to page to input new ingredients
+
+[gif goes here]
+
+### Ingredients input page
+
+- Ingredient input form
+- linked from User kitchen page
+- Metrics for dietary info
+
+[gif goes here]
+
+### User Profile
+
+- Link to Page to edit Ditary preferences
+- Link to User kitchen Page
+- User Logo
+
+[gif goes here]
+
+### User Authentication
+
+- login page
+
+[gif goes here]
+
+### meal Calendar
+
+- Tracks what you ate on what days
+- Can schedule meals
 
 [gif goes here]
 
