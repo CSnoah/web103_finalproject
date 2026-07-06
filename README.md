@@ -68,7 +68,7 @@ Backend: Express
 
 [gif goes here]
 
-### meal Calendar
+### Meal Calendar
 
 - Tracks what you ate on what days
 - Can schedule meals
