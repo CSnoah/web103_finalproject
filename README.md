@@ -37,10 +37,7 @@ Backend: Express
 - Sorts them based on star rating
 - Can ajust results: new, favorite, etc.
 
-Beta demo (gif comming soon)
-<img width="1093" height="949" alt="image" src="https://github.com/user-attachments/assets/e72fc36a-03ef-48ec-8882-9e20865e5555" />
-
-[gif goes here]
+[![Watch the demo](https://img.youtube.com/vi/sg9T2A7yaAI/maxresdefault.jpg)](https://www.youtube.com/watch?v=sg9T2A7yaAI)
 
 ### User kitchen Page
 
